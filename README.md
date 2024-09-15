@@ -11,7 +11,7 @@
 ## Literature Survey
 - **Computer vision** and gesture recognition have become essential in revolutionizing human-computer interaction.
 - With advancements in Python libraries like **OpenCV** and **Mediapipe**, gesture recognition is now feasible without specialized hardware, making it accessible to everyday users.
-=
+
 ## Software Used
 - **Python**: The project is built in Python, known for its simplicity and efficiency in developing computer vision applications.
 - **OpenCV**: For real-time video frame capturing and hand detection.
