@@ -47,8 +47,8 @@ Ensure that Python 3.x is installed. You can get it from [Python's official webs
 ### 3.2 Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/GestureGenius.git
-cd GestureGenius
+git clone https://github.com/achyuth-2308/GestureGenius-Virtual-Cursor-Commander.git
+cd GestureGenius-Virtual-Cursor-Commander
 ```
 
 ### 3.3 Install Required Packages
@@ -138,5 +138,4 @@ Gesture recognition and computer vision have become pivotal in enhancing human-c
 - **Gutierrez, M.** (2022). Human-Computer Interaction through Vision-Based Systems. _ACM Computing Surveys_.
 
 ---
-
-This version is more engaging and includes links to make navigation easier for users. The Table of Contents is clickable, and I’ve added a bit more excitement to the description and future possibilities to attract contributors and users. Let me know if you'd like any further enhancements!
+This repository hosts the code and documentation for GestureGenius: Virtual Cursor Commander. Contributions and feedback are highly encouraged as we push the boundaries of hands-free, gesture-based interaction for a smarter, touchless future!
